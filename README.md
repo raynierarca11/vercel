@@ -6,6 +6,8 @@ vercelapp
 eeedss....
 eee
  ee..
+
+ take the first step.
 h.
 ss
 j..
