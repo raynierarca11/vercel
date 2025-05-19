@@ -9,6 +9,6 @@ eee
 
  take the first step.
 h.
-ss
+ss..
 j..
 ..
